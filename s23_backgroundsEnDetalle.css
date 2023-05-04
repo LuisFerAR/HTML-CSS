@@ -1,0 +1,19 @@
+body {
+    background-color: #eee;
+}
+
+.fondo {
+    height: 400px;
+    background: green url('https://placekitten.com/200/300') no-repeat 
+    left top fixed;
+    background-size: cover;
+
+    /*
+    background-color: green;
+    background-image: url('https://placekitten.com/200/300');
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: scroll;
+    background-size: cover;
+    */
+}

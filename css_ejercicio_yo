@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> CSS</title>
+        <link rel="stylesheet "href="main2.css" type="text/css">
+    </head>
+    <body>
+        <div class="caja2">
+            <p>Soy cabecera</p>
+            <hr >
+            <p>Soy contenido dentro de la caja!, estoy 
+                practicando mis habilidades con CSS y 
+                repasando mi conocimiento sobre la 
+                teoria de la caja
+            </p>
+            <hr>
+                <button class="boton1">Aceptar</button>
+                <button class="boton2">Cancelar</button>
+        </div>
+
+    </body>
+    </html>
+        

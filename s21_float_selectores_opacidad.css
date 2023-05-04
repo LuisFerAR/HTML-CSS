@@ -1,0 +1,16 @@
+body {
+    background-color: #eee;
+}
+
+img {
+    float: right;
+    
+}
+
+img:hover {
+    opacity: 0.5;
+}
+
+div p {
+    color:#f00;
+}
